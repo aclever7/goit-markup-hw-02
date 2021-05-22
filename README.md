@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-Repository for HM2
+# web-studio-first
+Repository for Web Studio project
