@@ -1,2 +1,2 @@
 # web-studio-first
-Repository for Web Studio project
+Repository for the HM2
